@@ -4,7 +4,7 @@ My name is Chris and I am a software engineer living in Melbourne, Australia.
 
 I suggest you visit [my website](https://www.chrisspeck.com/) however you may also see a selection of my Github repositories below.
 
-I am currently looking for work. You can check me out on [Linked In](https://www.linkedin.com/in/cgspeck/) or contact me directly on via `cgspeck at gmail.com`.
+You can check me out on [Linked In](https://www.linkedin.com/in/cgspeck/) or contact me directly on via `cgspeck at gmail.com`.
 
 <!--
 **cgspeck/cgspeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
